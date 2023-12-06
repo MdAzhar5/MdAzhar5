@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzharAli5
 - 👀 I’m interested in Python Scripting/Data Science 
-- 🌱 I’m currently learning App Development in Python 
+- 🌱 I’m currently learning Web Development in Python 
 - 📫 How to reach me skji3208@gmail.com
 
 <!---
