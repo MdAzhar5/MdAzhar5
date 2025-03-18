@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Muhammad Azhar</h1>
 <p>A Passionate Data Engineer & Agentic AI/ML Developer</p>
-<p>With a passion for Automation and Playing with LLMs to make Multi Agents Systems. I specialize in Finetuning LLMs on Custom Datasets. From Custom model building to Data Engineering, I love solve data complexity problems and turn human inteligence to AI Agents.</p>
+<p>With a passion for Automation and Playing with LLMs to make Multi Agents Systems, I am specialize in Finetuning LLMs on Custom Datasets. From Custom model building to Data Engineering, I love to solve complex Data Problems and turn Human Inteligence to AI Agents.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
